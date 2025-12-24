@@ -39,3 +39,6 @@ promedio_diario = total_vuelos / dias_en_un_año
 #mostrar resultados en pantalla (imprimo el total anual y el promedio diario con formato claro)
 print(f"total de vuelos saliendo del aeropuerto diciembre en un año: {total_vuelos}")
 print(f"promedio diario de vuelos {promedio_diario:-2f}")
+
+
+#no creo socio eri terrible gey
